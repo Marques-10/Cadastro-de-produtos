@@ -14,8 +14,12 @@
 
 ## Como rodar a aplicação localmente?
 
-### Clone o repositório!
+### 1° Clone o repositório!
 
-### npm install (instalar as depêndencias do projeto)
+### 2° npm install (instalar as dependências do projeto)
 
-### php artisan serve (Abre o projeto na porta 8000)
+### 3° php artisan serve (Abre o projeto na porta 8000)
+
+### Este foi um desafio/exercício proposto pelo orientador do curso: Laravel 5.8 Completo - O mais poderoso Framework PHP
+
+### Link do curso: https://www.udemy.com/course/laravelcompleto/ 
